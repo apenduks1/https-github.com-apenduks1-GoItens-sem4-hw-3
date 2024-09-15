@@ -1,0 +1,10 @@
+img {
+    height: 200px;
+    background-color:antiquewhite;
+    transition: 0.5s;
+    display: flex;
+    margin-top: 100px;
+}
+.loaded {
+    opacity: 1;
+}
